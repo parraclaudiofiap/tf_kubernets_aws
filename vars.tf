@@ -3,9 +3,9 @@ variable "aws_region_default" {
 }
 
 variable "project_name" {
-   default     = "app-techchallenge"
- }
- 
- variable "aws_account_id" {
-   default     = "341161836869"
- }
+  default = "app-techchallenge"
+}
+
+variable "aws_account_id" {
+  default = "341161836869"
+}
